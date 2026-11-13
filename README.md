@@ -24,8 +24,8 @@ https://kommodo.ai/i/3l5wZhffcUuGNVkSrsEG
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-Week 1-2: Coding punnett square
-Week 3-4: Coding user interface
+Week 1-2: Coding punnett square,
+Week 3-4: Coding user interface,
 Week 5-6: Testing and refinin
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
