@@ -3,20 +3,14 @@
 
 ## Project Proposal Template:
 
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
+### Project Title or Name of the Application	: Mendelian Calculator
+### Section			   	      : Sodium
+### Group Members			    : Kenji Garcia, Zigfrheid Oddysseus Hilario, Raphael Vincentt Tan
+### Date (Proposal Date)  : Nov 13, 2026
 
 ### Project Description:
+The Mendelian Calculator will calculate and return the genotype and phenotype of an offspring based on the parents genotype. The target demographic would be people interested in learning about genotypes and phenotypes, or people who have deeper knowledge on the topic, and want to calculate the phenotype and genotype quickly and accurately. The program will be composed of two (2) parent subclasses of a parent class human, whose attributes are the genotype and phenotype of the said class. It will also have a method getGenotype() and getPhenotype() which returns the genotype and phenotype respectively. The two parent subclasses will interact with each other through determining the genotype and phenotype of the offspring, the process will need the genotype of the parent subclasses.
 
-- A brief summary of the project description and the need for it.
-
-- Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
-
-- Include the description as well of your target demographics as the user of your application. 
-
-- The description is then followed by the class diagram, depicting clearly what was described.
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
