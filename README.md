@@ -11,11 +11,6 @@
 ### Project Description:
 The Mendelian Calculator will calculate and return the genotype and phenotype of an offspring based on the parents genotype. The target demographic would be people interested in learning about genotypes and phenotypes, or people who have deeper knowledge on the topic, and want to calculate the phenotype and genotype quickly and accurately. The program will be composed of two (2) parent subclasses of a parent class human, whose attributes are the genotype and phenotype of the said class. It will also have a method getGenotype() and getPhenotype() which returns the genotype and phenotype respectively. The two parent subclasses will interact with each other through determining the genotype and phenotype of the offspring, the process will need the genotype of the parent subclasses.
 
-
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
-
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
-
 ### Class Diagram:
 
 https://kommodo.ai/i/3l5wZhffcUuGNVkSrsEG
